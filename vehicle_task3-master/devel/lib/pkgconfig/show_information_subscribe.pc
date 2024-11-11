@@ -1,0 +1,8 @@
+prefix=/home/agilex/dev/carTest3_ws/devel
+
+Name: show_information_subscribe
+Description: Description of show_information_subscribe
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

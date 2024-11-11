@@ -1,0 +1,2 @@
+car_control:control_move:control_move_subscribe:marker_ws:show_information:show_information_subscribe
+-DCATKIN_DEVEL_PREFIX=/home/agilex/dev/carTest3_ws/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/dev/carTest3_ws/install -G Unix Makefiles

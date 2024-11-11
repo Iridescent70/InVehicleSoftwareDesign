@@ -1,0 +1,8 @@
+prefix=/home/agilex/dev/carTest3_ws/install
+
+Name: control_move
+Description: Description of control_move
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

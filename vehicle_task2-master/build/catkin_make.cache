@@ -1,0 +1,2 @@
+camera_lidar
+-DCATKIN_DEVEL_PREFIX=/home/agilex/dev/carTest2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/dev/carTest2_ws/install -G Unix Makefiles

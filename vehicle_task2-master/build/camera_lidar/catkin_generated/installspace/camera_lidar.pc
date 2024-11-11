@@ -1,0 +1,8 @@
+prefix=/home/agilex/dev/carTest2_ws/install
+
+Name: camera_lidar
+Description: Description of camera_lidar
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
