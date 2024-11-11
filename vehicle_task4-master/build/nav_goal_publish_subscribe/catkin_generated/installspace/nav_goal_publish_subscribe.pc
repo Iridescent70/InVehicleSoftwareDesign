@@ -1,0 +1,8 @@
+prefix=/home/agilex/dev/carTest4_ws/install
+
+Name: nav_goal_publish_subscribe
+Description: Description of nav_goal_publish_subscribe
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

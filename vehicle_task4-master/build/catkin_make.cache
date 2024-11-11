@@ -1,0 +1,2 @@
+identify_number:nav_goal_publish_subscribe
+-DCATKIN_DEVEL_PREFIX=/home/agilex/dev/carTest4_ws/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/dev/carTest4_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/agilex/dev/carTest4_ws/install
+
+Name: identify_number
+Description: Description of identify_number
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
